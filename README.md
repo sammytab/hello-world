@@ -1,2 +1,6 @@
 # hello-world
-Some repo
+Yo!
+
+Kunhan testaan.
+
+- Samz
